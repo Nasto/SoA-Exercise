@@ -1,0 +1,62 @@
+[
+  {
+    "Name": "aquarius",
+    "StartDate": "2016-01-20T00:00:00",
+    "EndDate": "2016-02-18T23:59:59"
+  },
+  {
+    "Name": "pisces",
+    "StartDate": "2016-02-19T00:00:00",
+    "EndDate": "2016-03-20T23:59:59"
+  },
+  {
+    "Name": "aries",
+    "StartDate": "2016-03-21T00:00:00",
+    "EndDate": "2016-04-19T23:59:59"
+  },
+  {
+    "Name": "taurus",
+    "StartDate": "2016-04-20T00:00:00",
+    "EndDate": "2016-05-20T23:59:59"
+  },
+  {
+    "Name": "gemini",
+    "StartDate": "2016-05-21T00:00:00",
+    "EndDate": "2016-06-20T23:59:59"
+  },
+  {
+    "Name": "cancer",
+    "StartDate": "2016-06-21T00:00:00",
+    "EndDate": "2016-07-22T23:59:59"
+  },
+  {
+    "Name": "leo",
+    "StartDate": "2016-07-23T00:00:00",
+    "EndDate": "2016-08-22T23:59:59"
+  },
+  {
+    "Name": "virgo",
+    "StartDate": "2016-08-23T00:00:00",
+    "EndDate": "2016-09-22T23:59:59"
+  },
+  {
+    "Name": "libra",
+    "StartDate": "2016-09-23T00:00:00",
+    "EndDate": "2016-10-22T23:59:59"
+  },
+  {
+    "Name": "scorpio",
+    "StartDate": "2016-10-23T00:00:00",
+    "EndDate": "2016-11-21T23:59:59"
+  },
+  {
+    "Name": "sagittarius",
+    "StartDate": "2016-11-22T00:00:00",
+    "EndDate": "2016-12-21T23:59:59"
+  },
+  {
+    "Name": "capricorn",
+    "StartDate": "2016-12-22T00:00:00",
+    "EndDate": "2016-01-19T23:59:59"
+  }
+]

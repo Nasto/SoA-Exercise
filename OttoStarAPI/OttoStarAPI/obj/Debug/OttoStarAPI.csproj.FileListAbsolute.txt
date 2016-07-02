@@ -11,9 +11,9 @@ C:\Users\Stephan Dörfler\git\SoA-Exercise\OttoStarAPI\OttoStarAPI\bin\Newtonsof
 C:\Users\Stephan Dörfler\git\SoA-Exercise\OttoStarAPI\OttoStarAPI\bin\System.Net.Http.Formatting.xml
 C:\Users\Stephan Dörfler\git\SoA-Exercise\OttoStarAPI\OttoStarAPI\bin\System.Web.Http.xml
 C:\Users\Stephan Dörfler\git\SoA-Exercise\OttoStarAPI\OttoStarAPI\bin\System.Web.Http.WebHost.xml
-C:\Users\Stephan Dörfler\git\SoA-Exercise\OttoStarAPI\OttoStarAPI\obj\Release\OttoStarAPI.csprojResolveAssemblyReference.cache
+C:\Users\Stephan Dörfler\git\SoA-Exercise\OttoStarAPI\OttoStarAPI\obj\Debug\OttoStarAPI.csprojResolveAssemblyReference.cache
 C:\Users\Stephan Dörfler\git\SoA-Exercise\OttoStarAPI\OttoStarAPI\bin\OttoStar.dll.config
 C:\Users\Stephan Dörfler\git\SoA-Exercise\OttoStarAPI\OttoStarAPI\bin\OttoStar.dll
 C:\Users\Stephan Dörfler\git\SoA-Exercise\OttoStarAPI\OttoStarAPI\bin\OttoStar.pdb
-C:\Users\Stephan Dörfler\git\SoA-Exercise\OttoStarAPI\OttoStarAPI\obj\Release\OttoStar.dll
-C:\Users\Stephan Dörfler\git\SoA-Exercise\OttoStarAPI\OttoStarAPI\obj\Release\OttoStar.pdb
+C:\Users\Stephan Dörfler\git\SoA-Exercise\OttoStarAPI\OttoStarAPI\obj\Debug\OttoStar.dll
+C:\Users\Stephan Dörfler\git\SoA-Exercise\OttoStarAPI\OttoStarAPI\obj\Debug\OttoStar.pdb

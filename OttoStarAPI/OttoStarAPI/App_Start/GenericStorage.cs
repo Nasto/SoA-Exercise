@@ -1,4 +1,4 @@
-﻿using ContactList.Models;
+﻿using OttoStar.Models;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
@@ -8,7 +8,7 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ContactList
+namespace OttoStar
 {
     public class GenericStorage
     {
@@ -27,22 +27,22 @@ namespace ContactList
             }
         }
 
-        public async Task Save(IEnumerable<Contact> target, string filename)
+        public async Task Save(IEnumerable<StarSign> target, string filename)
         {
             var json = JsonConvert.SerializeObject(target);
             File.WriteAllText(_filePath + filename, json);
         }
 
-        public async Task<IEnumerable<Contact>> Get(string filename)
+        public async Task<IEnumerable<StarSign>> Get(string filename)
         {
-            var contactsText = String.Empty;
+            var starSignsText = String.Empty;
             if (File.Exists(_filePath + filename))
             {
-                contactsText = File.ReadAllText(_filePath + filename);
+                starSignsText = File.ReadAllText(_filePath + filename);
             }
 
-            var contacts = JsonConvert.DeserializeObject<Contact[]>(contactsText);
-            return contacts;
+            var starSigns = JsonConvert.DeserializeObject<StarSign[]>(starSignsText);
+            return starSigns;
         }
     }
 }

@@ -1,5 +1,5 @@
 ﻿
-namespace ContactList.Models
+namespace OttoStar.Models
 {
     public class Contact
     {

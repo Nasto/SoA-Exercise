@@ -1,4 +1,4 @@
-﻿using ContactList.Models;
+﻿using OttoStar.Models;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using System.Web.Http;
@@ -7,7 +7,7 @@ using Swashbuckle.Swagger.Annotations;
 using System.Net;
 using System.Net.Http;
 
-namespace ContactList.Controllers
+namespace OttoStar.Controllers
 {
     public class ContactsController : ApiController
     {
